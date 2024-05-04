@@ -1,16 +1,4 @@
-# building_better_workplace
+![Screenshot_20240504-161611](https://github.com/Allaberdiyev/building_better_workplace/assets/149064535/fd6b34ca-a3e0-426c-90be-0347ef47453f)
 
-A new Flutter project.
+![Screenshot_20240504-161621](https://github.com/Allaberdiyev/building_better_workplace/assets/149064535/0dac5714-ed60-4f3f-a5fe-0702f574b5b9)
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
